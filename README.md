@@ -1,7 +1,7 @@
 ### Hey, I'm YanLam Ng
 
-I graduated in computer science in in University of Manitoba.
-
+Hello, My name is Yan Lam Ng.
+I graduated with a Bachelor of Computer Science from the University of Manitoba.  I am passionate about programming, especially in AI and databases. So when I was at the University of Manitoba, I joined the Automuos Agent Lab. In there, I learned how to program the humanoid robot. And our team joined the Hurocup Adult size robot competition. We get 3 places all-round.
 <!--
 **YanLamNg/YanLamNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
